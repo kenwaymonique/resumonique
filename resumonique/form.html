@@ -9,13 +9,23 @@
 <body>
     <form action="https://api.staticforms.xyz/submit" method="post">
         <!-- Replace with accesKey sent to your email -->
-        <input type="hidden" name="accessKey" value="e44fc5d0-0b52-4cb1-9f79-fefc3800d89c"> <!-- Required -->
+        <input type="hidden" name="accessKey" value="bf6d6e6a-5241-4052-9e75-da78eb24676f"> <!-- Required -->
+        <label>Nome</label>
         <input type="text" name="name"> <!-- Optional -->
-        <input type="text" name="subject"> <!-- Optional -->
+        <label>Email</label>
         <input type="text" name="email"> <!-- Optional -->
+        <label>Telefone</label>
         <input type="text" name="phone"> <!-- Optional -->
-        <textarea name="message"></textarea> <!-- Optional -->
-        <!-- If you want replyTo to be set to specific email -->
+        <label>Curso</label>
+        <select name="curso" id="curso">
+            <option value="ebb">EBB</option>
+            <option value="em">EM</option>
+            <option value="eq">EQ</option>
+            <option value="ee">EE</option>
+            <option value="bcc">BCC</option>
+            <option value="ep">EP</option>
+            <option value="outro">Outro</option>
+        </select>
         <input type="text" name="replyTo" value="myreplytoemail@example.com"> <!-- Optional -->
         <!-- Specify @ as reply to value if you want it to be customers email -->
         <input type="hidden" name="replyTo" value="@"> <!-- Optional -->
