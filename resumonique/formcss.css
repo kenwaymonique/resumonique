@@ -5,3 +5,19 @@
 #textinlabel{
     color: white;
 }
+
+.formulario{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 20%;
+    margin: auto;
+    text-align: center;
+    }
+
+#textcad{
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+}
