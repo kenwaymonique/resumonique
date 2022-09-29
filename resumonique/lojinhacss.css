@@ -1,0 +1,21 @@
+.indicados, .modelores{
+    margin: auto ; 
+    display: flex; 
+    justify-content: center;
+}
+
+#cardes{
+    width: 18rem;background-color:rgb(229, 221, 200); text-align: center;"
+}
+
+#textbiotec{
+    color: white;
+}
+
+#imgsn2{
+    height:500px ; width: 380px;
+    display: flex;
+    margin: auto;
+    justify-content: ;
+    
+}
