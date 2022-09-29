@@ -33,3 +33,10 @@
 #mcazul{
     background-color: rgb(173, 216, 230);
 }
+
+
+#padrao{
+    margin: auto ;
+     display: flex; 
+     justify-content: center;
+}
