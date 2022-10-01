@@ -5,7 +5,7 @@
 }
 
 #cardes{
-    width: 18rem;background-color:rgb(229, 221, 200); text-align: center;"
+    width: 18rem;background-color:rgb(229, 221, 200); text-align: center;
 }
 
 #textbiotec{
@@ -16,6 +16,6 @@
     height:500px ; width: 380px;
     display: flex;
     margin: auto;
-    justify-content: ;
+    justify-content: center ;
     
 }
