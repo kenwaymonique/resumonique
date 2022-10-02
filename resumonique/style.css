@@ -40,3 +40,40 @@
      display: flex; 
      justify-content: center;
 }
+
+#loguinho{
+    width:100px; 
+    height: 100px;
+}
+
+#cor1{
+    color: black; background-color: rgb(255,99,71);
+}
+
+#cor2{
+    color: black; background-color: rgb(240,230,140);
+}
+
+#cor3{
+    color: black; background-color: rgb(173, 216, 230);
+}
+
+#cor4{
+    color: black; background-color: rgb(152,251,152);
+}
+
+#cor5{
+    color: black; background-color: rgb(218,165,32);
+}
+
+#cor6{
+    color: black; background-color: rgb(220,220,220);
+}
+
+#padraodoscards{
+    width: 18rem;  background-color:rgb(229, 221, 200); text-align: center;
+}
+
+.botaoloja{
+    text-align:center; padding-top: 100px; padding-bottom: 100px;
+}
