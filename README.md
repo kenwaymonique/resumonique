@@ -9,9 +9,11 @@ Vem conhecer um pouco do site comigo!
 
 Paleta de cores escolhida para o site:
 ![image](https://user-images.githubusercontent.com/102621446/193477923-dccedbfb-a5ad-41b2-8d5c-1dea4bacbb48.png)
+
 (Tema do site: dark)
 
 Logo:
+
 ![resu_mo_nique__9_-removebg-preview](https://user-images.githubusercontent.com/102621446/193477870-0a4818aa-56c6-4ee5-a107-b1f20494e805.png)
 
 Menu:
