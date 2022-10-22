@@ -23,7 +23,7 @@ Footer:
 ![image](https://user-images.githubusercontent.com/102621446/193477979-a3c02470-cbe2-45f0-9cda-264b260c0e27.png)
 
 Card dos produtos:
-![image](https://user-images.githubusercontent.com/102621446/193478265-a3f09c92-f4fe-44c7-9b97-83964dda83f3.png)
+![image](https://user-images.githubusercontent.com/102621446/197310773-04330bc9-9c0f-4c81-8122-6d8aa5d58a3f.png)
 
 Escolha a matéria:
 ![image](https://user-images.githubusercontent.com/102621446/193478296-c6d8992d-cbdd-4dda-bdcf-5e9000e0d56e.png)
